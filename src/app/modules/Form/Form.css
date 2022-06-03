@@ -1,0 +1,9 @@
+.Form {
+  width: 100%;
+  display: flex;
+}
+
+.Form-group {
+  display: flex;
+  flex-direction: column;
+}
